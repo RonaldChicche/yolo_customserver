@@ -1,0 +1,79 @@
+# exported by https://3dviewer.net
+newmtl Bombillos Halgenos
+Kd 0.996078431372549 0.8 0.4
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Material
+Kd 0.25098039215686274 0 0.5019607843137255
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Fuel Tank
+Kd 1 0 0
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Default
+Kd 0 0 0
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl canasta Hilux
+Kd 0.5019607843137255 0 0.5019607843137255
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Porta faros cromado
+Kd 0.06274509803921569 0.5019607843137255 0.5019607843137255
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Cobertores de Guardabarros
+Kd 0.5019607843137255 0 1
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Rollbar
+Kd 0.12941176470588237 1 1
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl lines
+Kd 0 0 0
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Gancho wincher
+Kd 0.984313725490196 0.00784313725490196 0.027450980392156862
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Snorkel Gato
+Kd 0.4 1 0.4
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl faros Cromados
+Kd 0.9019607843137255 0.9019607843137255 0.9019607843137255
+d 1
+Ka 0 0 0
+Ks 1 1 1
+Ns 0
+newmtl Material
+Kd 0.7843137254901961 0.7843137254901961 0.7843137254901961
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
